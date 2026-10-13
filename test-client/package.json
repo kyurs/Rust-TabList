@@ -1,0 +1,17 @@
+{
+  "name": "test-client",
+  "version": "1.0.0",
+  "description": "Development-only Java protocol integration probes",
+  "scripts": {
+    "test:member": "node probe.cjs",
+    "test:admin": "node admin-probe.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "minecraft-protocol": "1.68.0"
+  },
+  "private": true
+}

@@ -1,0 +1,7 @@
+/target/
+/vendor/
+/test-client/node_modules/
+/proxy-helper/build/
+/proxy-helper/*.jar
+/dist/
+/test-client/last-*.json
