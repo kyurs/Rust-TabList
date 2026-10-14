@@ -1,0 +1,1 @@
+Intentional invalid image: cape should fall back without crashing.
